@@ -10,7 +10,7 @@
 - [How to run](#how-to-run)
 - [Stopping](#stopping)
 - [Results](#results)
-- [Authors](#author)
+- [Authors](#authors)
 
 ## Requirements
 
