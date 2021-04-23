@@ -41,4 +41,4 @@ results.csv
 ```
 
 ## Authors
-- [Author](https://github.com/paulowsky)
+- [paulowsky](https://github.com/paulowsky)
